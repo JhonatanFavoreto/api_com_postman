@@ -1,0 +1,17 @@
+{
+  "name": "postman",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "cls && node server.js"
+  },
+  "keywords": [
+    "Harry Potter",
+    "Bruxaria",
+    "Não é magia, é tecnologia"
+  ],
+  "author": "Jhonatan Henrique Favoreto",
+  "license": "MIT",
+  "description": "Projeto de API de bruxos testando GET e POST no POSTMAN"
+}
