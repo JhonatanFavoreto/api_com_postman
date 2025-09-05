@@ -4,7 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "dev": "cls && node server.js"
+    "dev": "clear && node server.js"
   },
   "keywords": [
     "Harry Potter",
@@ -13,5 +13,9 @@
   ],
   "author": "Jhonatan Henrique Favoreto",
   "license": "MIT",
-  "description": "Projeto de API de bruxos testando GET e POST no POSTMAN"
+  "description": "Projeto de API de bruxos testando GET e POST no POSTMAN",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
 }
