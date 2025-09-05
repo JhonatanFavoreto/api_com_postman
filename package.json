@@ -4,7 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "dev": "clear && node server.js"
+    "dev": "cls && node server.js"
   },
   "keywords": [
     "Harry Potter",

@@ -63,7 +63,7 @@ app.post("/varinhas", (req, res) => {
 
   res.status(201).json({
     sucess: true,
-    message: "Novo bruxo adicionado a Hogwarts!",
+    message: "Nova varinha adicionada!",
     data: novaVarinha,
   });
 })
